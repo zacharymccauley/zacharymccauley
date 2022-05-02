@@ -1,5 +1,5 @@
 - Hi, I’m Zach McCauley
-- I’m interested in web development, experimental imaging, music, and black metal
+- I’m interested in web development, experimental imaging, generative music, and black metal
 - I’m currently learning web development, python scripting, and twitter/discord bot development
 - How to reach me / info@zacharymccauley.com /
 
